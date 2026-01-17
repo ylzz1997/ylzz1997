@@ -4,9 +4,20 @@
 - 💞️ I’m looking to collaborate on [null]
 - 📫 How to reach me ylzz1997@outlook.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylzz1997&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ylzz1997)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-one-omega-58.vercel.app/api?username=ylzz1997&show_icons=true"
+    alt="my github stats"
+    width="840"
+  />
+</p>
+
+</p>
+</a>
+
+    
 <br/>  
 
 
