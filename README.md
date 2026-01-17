@@ -8,16 +8,15 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-one-omega-58.vercel.app/api?username=ylzz1997&show_icons=true"
-    alt="my github stats"
-    width="840"
+    src="https://github-readme-stats-one-omega-58.vercel.app/api?username=ylzz1997&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    width="500"
+  />
+  <img
+    src="https://github-readme-stats-one-omega-58.vercel.app/api/top-langs?username=ylzz1997&layout=compact&langs_count=8&card_width=500"
+    width="500"
   />
 </p>
 
-</p>
-</a>
-
-    
 <br/>  
 
 
